@@ -58,4 +58,6 @@ npm install # or yarn install``
  <br />
 4. **Customize and Build:** Start building your application by adding components, configuring routes, and integrating with APIs. Fastplate provides a solid foundation, allowing you to focus on your application's unique features.
 
+![image](https://github.com/ethantaylan/fastplate-react/assets/59540282/3cfcaaf9-df73-45ac-a92e-28c856757451)
+
 
