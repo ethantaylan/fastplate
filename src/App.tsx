@@ -10,16 +10,16 @@ export default function App() {
         style={{ color: "#ed244e" }}
         className="tracking-wider text-sm font-semibold mt-5"
       >
-        React / React Router / TypeScript / Tailwind / DaisyUI / Heroicons /
-        Axios / SweetAlert2
+        React / React Router / TypeScript / Tailwind / DaisyUI / Axios / Zod /
+        Zustand
       </h2>
       <p className="mt-10 w-1/2 text-xl">
         This template empowers you to swiftly build responsive and dynamic web
         applications by harnessing the capabilities of the stacks named below.
       </p>
       <p className="text-2xl text-white mt-20">
-        Get started by editing{" "}
-        <span style={{ color: "#ed244e" }}>App.tsx</span> file
+        Get started by editing <span style={{ color: "#ed244e" }}>App.tsx</span>{" "}
+        file
       </p>
     </div>
   );

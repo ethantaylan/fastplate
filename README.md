@@ -1,6 +1,4 @@
-
 <img src="./src/assets/logo.png" alt="drawing" width="200"/>
-
 
 # Fastplate - React Template
 
@@ -12,13 +10,11 @@ It comes packed with essential technologies listed below:
 - TypeScript,
 - Tailwind CSS,
 - DaisyUI,
-- Heroicons,
 - Axios,
-- SweetAlert2
-
+- Zod,
+- Zustand
 
 Providing you with a solid foundation to build modern, responsive, and feature-rich web applications.
-
 
 ## Features
 
@@ -28,9 +24,9 @@ Providing you with a solid foundation to build modern, responsive, and feature-r
 
 - **Tailwind CSS & DaisyUI:** Effortlessly design stunning user interfaces with Tailwind CSS, enriched by the intuitive components of DaisyUI. Create responsive layouts and visually appealing designs with ease.
 
-- **Heroicons:** Access a diverse collection of icons with Heroicons, enhancing your app's visual appeal and user interaction.
+- **Axios:** Simplify API communication with Axios, making it easier to interact with your backend services.
 
-- **Axios & SweetAlert2:** Simplify API communication with Axios and provide an enhanced user experience with SweetAlert2's elegant alerts and modals.
+- **Zod & Zustand:** Use Zod for schema validation and Zustand for state management, ensuring your application is robust and maintainable.
 
 ## Getting Started
 
@@ -38,26 +34,17 @@ Follow these steps to get started with Fastplate:
 
 1. **Clone the Repository:** Clone or fork this repository to your local machine.
 
- ``git clone https://github.com/yourusername/Fastplate.git``
- <br />
-  <br />
- <br />
-  <br />
+`git clone https://github.com/yourusername/Fastplate.git`
+
 2. **Install Dependencies:** Navigate to the project directory and install the required dependencies using your preferred package manager.
 
-``cd Fastplate
-npm install # or yarn install``
- <br />
-  <br />
- <br />
+`cd Fastplate
+npm install # or yarn install`
+
 3. **Start Development Server:** Launch the development server and open the app in your browser.
 
-``npm start # or yarn start``
- <br />
-  <br />
- <br />
+`npm start # or yarn start`
+
 4. **Customize and Build:** Start building your application by adding components, configuring routes, and integrating with APIs. Fastplate provides a solid foundation, allowing you to focus on your application's unique features.
 
 ![image](https://github.com/ethantaylan/fastplate-react/assets/59540282/3cfcaaf9-df73-45ac-a92e-28c856757451)
-
-
